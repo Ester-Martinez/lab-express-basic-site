@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+div {
+  width: 400px;
+}
+div img {
+  width: 100%
+}
